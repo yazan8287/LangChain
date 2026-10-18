@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+.env
+
+.env
+
+.env
+.venv/
+venv/
+__pycache__/
